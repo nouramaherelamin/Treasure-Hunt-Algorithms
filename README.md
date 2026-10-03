@@ -2,7 +2,7 @@
 
 > Help a group of adventurers find the treasure hidden in the Forest of Myst using the **fewest guesses possible**.
 
-An academic project for the **Algorithms** course (Level 2, Semester 2). Given a sorted list of marked locations, the program finds the index of the treasure with **Binary Search** and compares it against **Linear Search**.
+An academic project. Given a sorted list of marked locations, the program finds the index of the treasure with **Binary Search** and compares it against **Linear Search**.
 
 ![Problem statement](docs/problem-statement.jpeg)
 
@@ -116,10 +116,6 @@ python -m pytest tests -v
 ## 🛠️ Tech Stack
 
 C++17 · C++/CLI (.NET Windows Forms) · Python 3 · Tkinter · pytest
-
-## 👩‍💻 Author
-
-**Noura Maher Elamin** – Computer & Information Systems, Egyptian Chinese University
 
 ## 📄 License
 
